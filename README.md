@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grd92, I’m a full-stack web developer
 - 👀 I’m interested in Grails, Groovy, Java, Html5, Css3, Javascript
-- 🌱 I’m currently learning about Springboot, Vue.js and React.js. I´m love JavaScript.
+- 🌱 I’m currently learning about Springboot, Vue.js and React.js. I love JavaScript.
 
 <!---
 
